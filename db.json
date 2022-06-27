@@ -1,0 +1,88 @@
+{
+    "groceries" : [
+        {
+          "date": "25-Jun-22",
+          "user": "mohan",
+          "grocery_item": "milk",
+          "unit": "liter",
+          "quantity": 2.5
+        },
+        {
+          "date": "25-Jun-22",
+          "user": "mohan",
+          "grocery_item": "parle-g",
+          "unit": "box",
+          "quantity": 6
+        },
+        {
+          "date": "25-Jun-22",
+          "user": "Bhai",
+          "grocery_item": "tamrind",
+          "unit": "kg",
+          "quantity": 1.5
+        },
+        {
+          "date": "26-Jun-22",
+          "user": "Bhai",
+          "grocery_item": "milk",
+          "unit": "liter",
+          "quantity": 2.5
+        },
+        {
+          "date": "26-Jun-22",
+          "user": "kiran",
+          "grocery_item": "parle-g",
+          "unit": "box",
+          "quantity": 6
+        },
+        {
+          "date": "26-Jun-22",
+          "user": "kiran",
+          "grocery_item": "apple",
+          "unit": "kg",
+          "quantity": 1.5
+        },
+        {
+          "date": "27-Jun-22",
+          "user": "Niket",
+          "grocery_item": "sugar",
+          "unit": "kg",
+          "quantity": 10
+        },
+        {
+          "date": "27-Jun-22",
+          "user": "Niket",
+          "grocery_item": "suauces",
+          "unit": "packets",
+          "quantity": 6
+        },
+        {
+          "date": "26-Jun-22",
+          "user": "Sushil",
+          "grocery_item": "agarbatti",
+          "unit": "box",
+          "quantity": 7
+        },
+        {
+          "date": "28-Jun-22",
+          "user": "Sushil",
+          "grocery_item": "milk",
+          "unit": "liter",
+          "quantity": 2.5
+        },
+        {
+          "date": "28-Jun-22",
+          "user": "Ajay",
+          "grocery_item": "Good day",
+          "unit": "box",
+          "quantity": 6
+        },
+        {
+          "date": "28-Jun-22",
+          "user": "Ajay",
+          "grocery_item": "orange",
+          "unit": "kg",
+          "quantity": 1.5
+        }
+      ]
+}
